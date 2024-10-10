@@ -1,10 +1,12 @@
+🎥 **For Video Walkthrough:  https://youtu.be/BP9maWZaDKk**
+
+------
+
 🌍 **Remote Work & Mental Health: A Data-Driven Exploration** 🧠
 
 The rise of remote work offers flexibility and global collaboration, while onsite work fosters direct interaction and team bonding. Remote setups reduce commuting stress but risk isolation and blurred boundaries, whereas onsite offers structure and social engagement. Both require companies to balance productivity, mental health, and team cohesion.
 
 I’ve always been the type to quietly observe patterns and make sense of them in my own time. Recently, I found myself curious about how **remote work** has impacted mental health. So, I dove into the **Remote Work and Mental Health** dataset on Kaggle(https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health). The results?… 📊
-
-🎥 **For Video Walkthrough:  https://youtu.be/BP9maWZaDKk**
 
 ------
 
