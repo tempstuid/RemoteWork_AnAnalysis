@@ -34,6 +34,7 @@ Data wrangling, filtering, and visualizing provided an intimate look into the nu
 3. PowerBI_Dashboard.pbix contains dashboard of the data.
 4. PythonJupyterFile.ipynb is the Jupter Notebook for the next Python file(PythonSourceCode.py).
 5. PythonSourceCode.py contains Python code including Pandas, NumPy, Matplotlib, and Seaborn.
+6. DataAnalysisReport.pdf contains a quick glimpse of the project.
 
 ---
 
