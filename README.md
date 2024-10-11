@@ -22,7 +22,7 @@ I used:
 
 1. **Pandas** to manipulate the dataset, efficiently cleaning and transforming the data.
 2. **NumPy** powered some of the heavier lifting with numeric computations.
-3. **Matplotlib** and **Seaborn** brought the insights to life through engaging visualizations.
+3. **Matplotlib** brought the insights to life through engaging visualizations.
 4. **Seaborn** for statistical visualisation
 5. **PowerBI** to make an interactive dashboard.
 6. **PostgreSQL** to query the data.
